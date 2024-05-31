@@ -43,6 +43,11 @@
 #define DC_RS PA4
 #define RST PA2
 /*
+Don't forget to conneect:
+
+TFT CLK: PA5
+TFT SDA: PA7
+
 Button Connections By default:
 **********
 PA9 : UP
